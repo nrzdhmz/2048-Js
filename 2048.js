@@ -176,3 +176,8 @@ function hasEmptyTile() {
     }
     return false;
 }
+
+
+function gameOver() {
+  
+}
